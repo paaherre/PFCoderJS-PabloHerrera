@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nombre": "Producto 1",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 1",
+        "categoria": "Deportiva",
+        "destacado": true,
+        "precio": 2500,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=1"
+    },
+    {
+        "id": 2,
+        "nombre": "Producto 2",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 2",
+        "categoria": "Urbanas",
+        "destacado": false,
+        "precio": 3500,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=2"
+    },
+    {
+        "id": 3,
+        "nombre": "Producto 3",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 3",
+        "categoria": "Deportiva",
+        "destacado": false,
+        "precio": 4500,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=3"
+    },
+    {
+        "id": 4,
+        "nombre": "Producto 4",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 4",
+        "categoria": "Urbanas",
+        "destacado": false,
+        "precio": 5500,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=4"
+    },
+    {
+        "id": 5,
+        "nombre": "Producto 5",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 5",
+        "categoria": "Deportiva",
+        "destacado": true,
+        "precio": 6500,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=5"
+    },
+    {
+        "id": 6,
+        "nombre": "Producto 6",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 6",
+        "categoria": "Deportiva",
+        "destacado": true,
+        "precio": 3000,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=6"
+    },
+    {
+        "id": 7,
+        "nombre": "Producto 7",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 7",
+        "categoria": "Urbanas",
+        "destacado": false,
+        "precio": 4000,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=7"
+    },
+    {
+        "id": 8,
+        "nombre": "Producto 8",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 8",
+        "categoria": "Deportiva",
+        "destacado": true,
+        "precio": 5000,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=8"
+    },
+    {
+        "id": 9,
+        "nombre": "Producto 9",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 9",
+        "categoria": "Urbanas",
+        "destacado": false,
+        "precio": 6000,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=9"
+    },
+    {
+        "id": 10,
+        "nombre": "Producto 10",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 10",
+        "categoria": "Deportiva",
+        "destacado": true,
+        "precio": 5750,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=10"
+    },
+    {
+        "id": 11,
+        "nombre": "Producto 11",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 11",
+        "categoria": "Deportiva",
+        "destacado": true,
+        "precio": 4750,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=11"
+    },
+    {
+        "id": 12,
+        "nombre": "Producto 12",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 12",
+        "categoria": "Urbanas",
+        "destacado": false,
+        "precio": 3750,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=12"
+    },
+    {
+        "id": 13,
+        "nombre": "Producto 13",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 13",
+        "categoria": "Urbanas",
+        "destacado": true,
+        "precio": 2750,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=13"
+    },
+    {
+        "id": 14,
+        "nombre": "Producto 14",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 14",
+        "categoria": "Deportiva",
+        "destacado": true,
+        "precio": 6750,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=14"
+    },
+    {
+        "id": 15,
+        "nombre": "Producto 15",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 15",
+        "categoria": "Urbanas",
+        "destacado": false,
+        "precio": 7000,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=15"
+    },
+    {
+        "id": 16,
+        "nombre": "Producto 16",
+        "detalle": "Algunos detalles del producto para más información, este texto corresponde al producto 16",
+        "categoria": "Urbanas",
+        "destacado": true,
+        "precio": 7250,
+        "imagen": "https://source.unsplash.com/random/500x500/?footwear&sig=16"
+    }
+]
