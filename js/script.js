@@ -1,5 +1,7 @@
 var destacados = new Array;
 var $total = document.querySelector('#total');
+var contador = 0;
+var $contadorCarrito = document.querySelector('#contadorCarrito');
 
 var request = new XMLHttpRequest();
 request.open('GET', 'json/productos.json');
@@ -155,6 +157,12 @@ function consultaCarrito(){
         calcularTotal(baseDeDatos);
     }
 
+    let nodoContador = document.createElement('p');
+    $contadorCarrito.textContent='';
+    contador = contador+1;
+    nodoContador.textContent = contador;
+    $contadorCarrito.appendChild(nodoContador);
+
     function crearCarrito(base){
         // Vaciamos todo el html
         $carrito.textContent = '';
@@ -216,7 +224,9 @@ function borrarItemCarrito() {
         return carritoId !== id;
     });
     // Armamos de nuevo el carrito
-    consultaCarrito();    
+    
+    consultaCarrito();
+
 }
 
 function vaciarCarrito() {
@@ -225,3 +235,4 @@ function vaciarCarrito() {
     // Renderizamos los cambios
     consultaCarrito();    
 }
+

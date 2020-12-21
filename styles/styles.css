@@ -10,7 +10,7 @@
 
 .titulo{
   font-size: 2rem;
-  width: 60%;
+  width: 55%;
   margin-top: 1rem;
   text-align: center;
   font-family: 'Righteous', cursive;
@@ -18,10 +18,13 @@
 }
 
 .carritoCompras{
+  text-align: center;
+  padding-top: 1%;
   height: 5rem;
   background-color: black;
   color: #cc0000;
-  font-size: 3rem;  
+  font-size: 2rem;  
+  width: 5rem;
 }
 
 .productos{
