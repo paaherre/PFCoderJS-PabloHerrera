@@ -17,6 +17,11 @@
   color: rgb(0, 0, 0,);
 }
 
+.enConstrucción{
+  margin-top: 1rem;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+}
 .carritoCompras{
   text-align: center;
   padding-top: 1%;
